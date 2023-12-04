@@ -1,5 +1,7 @@
 # app-dev
 My First Repository
+
+
 #Pokemon
 ##Pokemon
 ###Pokemon
@@ -13,6 +15,6 @@ My First Repository
 - Pokemon
 - Pokemon
 
-[title](https://www.pokemon.com)
+[Pokemon](https://www.pokemon.com)
 
-![alt text](pikachu.jfif)
+![Pikachu](pikachu.jfif)
